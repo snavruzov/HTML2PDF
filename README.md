@@ -9,3 +9,4 @@ $ java convertToPDF.jar index.html result.pdf
 ### TODO:
 - Convert directly from url address
 - Identify fonts from CSS documents
+- Set antialiasing fonts
